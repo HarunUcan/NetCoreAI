@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36623.8 d17.14
+VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project01_ApiDemo", "NetCoreAI.Project01_ApiDemo\NetCoreAI.Project01_ApiDemo.csproj", "{0EDC2563-9630-4329-A9A9-640C5BD09CAA}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project03_RapidApi", "NetCoreAI.Project03_RapidApi\NetCoreAI.Project03_RapidApi.csproj", "{108CB771-93B8-4C5F-93CD-FAC7E0918E9A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project04_ChatAI", "NetCoreAI.Project04_ChatAI\NetCoreAI.Project04_ChatAI.csproj", "{220411F4-B382-40DD-B13D-6D989C38582C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project05_AudioTranscriptAI", "NetCoreAI.Project05_AudioTranscriptAI\NetCoreAI.Project05_AudioTranscriptAI.csproj", "{A82F8EED-46AA-45BE-A8D1-0251087FCCE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{220411F4-B382-40DD-B13D-6D989C38582C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{220411F4-B382-40DD-B13D-6D989C38582C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{220411F4-B382-40DD-B13D-6D989C38582C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A82F8EED-46AA-45BE-A8D1-0251087FCCE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A82F8EED-46AA-45BE-A8D1-0251087FCCE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A82F8EED-46AA-45BE-A8D1-0251087FCCE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A82F8EED-46AA-45BE-A8D1-0251087FCCE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
