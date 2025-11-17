@@ -6,6 +6,8 @@
 # Ignore all appsettings (recommended if containing secrets)
 appsettings.json
 
+Secrets
+
 # User-specific files
 *.rsuser
 *.suo
