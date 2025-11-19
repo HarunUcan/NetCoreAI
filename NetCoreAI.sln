@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project08_GoogleC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project09_TranslateAI", "NetCoreAI.Project09_TranslateAI\NetCoreAI.Project09_TranslateAI.csproj", "{84004049-34E0-4F94-89FF-1BFDA27A154B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project10_TextToSpeech", "NetCoreAI.Project10_TextToSpeech\NetCoreAI.Project10_TextToSpeech.csproj", "{D04DEBAE-A215-426C-AB49-D3B7D422E0BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreAI.Project11_GoogleCloudTextToSpeechAI", "NetCoreAI.Project11_GoogleCloudTextToSpeechAI\NetCoreAI.Project11_GoogleCloudTextToSpeechAI.csproj", "{9A203344-C27D-4AC6-85A3-7F732195119A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{84004049-34E0-4F94-89FF-1BFDA27A154B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84004049-34E0-4F94-89FF-1BFDA27A154B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84004049-34E0-4F94-89FF-1BFDA27A154B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D04DEBAE-A215-426C-AB49-D3B7D422E0BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04DEBAE-A215-426C-AB49-D3B7D422E0BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04DEBAE-A215-426C-AB49-D3B7D422E0BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04DEBAE-A215-426C-AB49-D3B7D422E0BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A203344-C27D-4AC6-85A3-7F732195119A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A203344-C27D-4AC6-85A3-7F732195119A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A203344-C27D-4AC6-85A3-7F732195119A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A203344-C27D-4AC6-85A3-7F732195119A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
